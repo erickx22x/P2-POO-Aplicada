@@ -1,0 +1,59 @@
+{
+  "representantes": [
+    {
+      "id": 1,
+      "nome": "Andrew",
+      "email": "and@hotmail.com",
+      "cpf": "14508765588"
+    },
+    {
+      "id": 2,
+      "nome": "Julio",
+      "email": "julio@gmail.com",
+      "cpf": "14508765587"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos",
+      "email": "carlos@gmail.com",
+      "cpf": "14508765235"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 0,
+      "nome": "Paracetamol",
+      "preco": 5.75,
+      "empresa": "Medley"
+    },
+    {
+      "id": 1,
+      "nome": "Dipirona",
+      "preco": 8.75,
+      "empresa": "Multifarma"
+    },
+    {
+      "id": 2,
+      "nome": "AAS",
+      "preco": 3.8,
+      "empresa": "Eurofarma"
+    }
+  ],
+  "clientes": [
+    {
+      "id": 0,
+      "nome": "Farmácia do povo",
+      "cnpj": "74.524.461/0001-08"
+    },
+    {
+      "id": 1,
+      "nome": "Farmácia Vieira",
+      "cnpj": "74.524.461/0001-10"
+    },
+    {
+      "id": 2,
+      "nome": "Drogarias Peixoto",
+      "cnpj": "74.524.461/0005-90"
+    }
+  ]
+}
